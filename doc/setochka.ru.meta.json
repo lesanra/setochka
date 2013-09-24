@@ -1,0 +1,14 @@
+{
+    "title": "setochka",
+    "createDate": "16-07-2011",
+    "editDate": "21-07-2011",
+    "summary": "Сеточка — инструмент для выделения CSS-свойств исходного CSS в отдельные файлы. Также может использоваться для удаления этих свойств без записи.",
+    "thumbnail": "",
+    "authors": ["kryzhanovsky-sergey"],
+    "tags": ["tools", "css"],
+    "categories": [{"name": "Работа с файлами/Сеточка", "url": "builders/setochka"}],
+    "translators": [""],
+    "url": "/doc",
+    "type": "tools",
+    "slug": ""
+}
