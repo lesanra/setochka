@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["kryzhanovsky-sergey"],
     "tags": ["tools", "css"],
-    "categories": [{"name": "Работа с файлами/setochka", "url": "builders/setochka"}],
+    "categories": [{"name": "Сборщики/setochka", "url": "builders/setochka"}],
     "translators": [""],
     "url": "/doc/setochka/",
     "type": "tools",
