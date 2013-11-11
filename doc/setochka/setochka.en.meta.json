@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["kryzhanovsky-sergey"],
     "tags": ["tools", "css"],
-    "categories": ["optimizers/setochka"],
+    "categories": [{"name": "Optimizers/setochka", "url": "optimizers/setochka", "order": "20/40"}],
     "translators": [""],
     "url": "/doc/setochka/",
     "type": "tools",
